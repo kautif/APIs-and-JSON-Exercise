@@ -15,3 +15,15 @@ C:\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\APIsAndJSON.runtime
 C:\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.csproj.CopyComplete
 C:\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net6.0\APIsAndJSON.genruntimeconfig.cache
+C:\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\System.Text.Json.dll
+C:\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net6.0\appsettings.json
